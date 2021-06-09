@@ -2,7 +2,7 @@
     function initBgVideo() {
         let random = window.getRandom(['1', "2", "3", "4"]);
         var video = document.getElementById('video_source');
-        let src = "/statics/images/" + random + ".mp4";
+        let src = "https://52gao.github.io/52gao/statics/images/" + random + ".mp4";
         video.src = src;
         document.getElementById('video_bg').load();
     }
