@@ -1,8 +1,8 @@
 (function(w) {
     function initBgVideo() {
-        let random = window.getRandom(['1', "2", "3", "4", "5"]);
+        let random = window.getRandom(['1', "2", "3", "4"]);
         var video = document.getElementById('video_source');
-        let src = "/haoda/images/" + random + ".mp4";
+        let src = "/statics/images/" + random + ".mp4";
         video.src = src;
         document.getElementById('video_bg').load();
     }
