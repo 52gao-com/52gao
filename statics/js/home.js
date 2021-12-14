@@ -4,7 +4,7 @@
             window.open('https://www.52gao0.com', "_self");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('https://52gao2.com', "_self");
+            window.open('https://www.52gao1.com', "_self");
         }
         document.getElementById("btnEnter3").onclick = function() {
             window.open('https://www.52gao3.com', "_self");
