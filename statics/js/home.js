@@ -1,7 +1,7 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('https://www.52gao5.com', "_self");
+            window.open('https://www.52gao6.com', "_self");
         }
         document.getElementById("btnEnter2").onclick = function() {
             window.open('https://www.52gao6.com', "_self");
